@@ -1,12 +1,12 @@
 1. Preparation Tasks
-  Assign cleaning areas to each group or student.
-  Prepare the clean-up schedule and inform all participants.
-  Inspect the cleaning area and identify tasks that need to be done.
+  1.1 Assign cleaning areas to each group or student.
+  1.2 Prepare the clean-up schedule and inform all participants.
+  1.3 Inspect the cleaning area and identify tasks that need to be done.
 
 2. Needed Materials
-  Brooms and dustpans
-  Garbage bags and trash bins
-  Gloves, face masks, and cleaning cloths
+  2.1 Brooms and dustpans
+  2.2 Garbage bags and trash bins
+  2.3 Gloves, face masks, and cleaning cloths
 
 3. Safety Reminder
   Always wear gloves and face masks while cleaning. Avoid touching sharp objects or hazardous waste with bare hands to prevent injuries and infections.
